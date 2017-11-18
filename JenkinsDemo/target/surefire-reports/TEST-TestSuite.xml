@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="22.927" tests="7" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="sample maven project"/>
+    <property name="PWD" value="/Users/kartheekc/Desktop/latestBuilds/Jenkins"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="/Users/kartheekc/.jenkins"/>
+    <property name="PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/bin:/Users/kartheekc/.nvm/versions/node/v8.4.0/bin:/users/Kartheekc/ant/bin:/users/Kartheekc/Library/Android/sdk/build-tools:/users/Kartheekc/Library/Android/sdk/tools:/users/Kartheekc/Library/Android/sdk/platform-tools:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"/>
+    <property name="HUDSON_SERVER_COOKIE" value="65bbf9ae6c9273f9"/>
+    <property name="NVM_DIR" value="/Users/kartheekc/.nvm"/>
+    <property name="POM_ARTIFACTID" value="JenkinsDemo"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="TERM_PROGRAM" value="Apple_Terminal"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/classes"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="TERM_SESSION_ID" value="63A5FA84-BA50-4073-A3D9-D2A435B0DD1C"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="JenkinsDemo"/>
+    <property name="JAVA_STARTED_ON_FIRST_THREAD_613" value="1"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="java.runtime.version" value="1.8.0_131-b11"/>
+    <property name="ANT_HOME" value="/users/Kartheekc/ant/bin"/>
+    <property name="NVM_BIN" value="/Users/kartheekc/.nvm/versions/node/v8.4.0/bin"/>
+    <property name="user.name" value="kartheekc"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="sample maven project"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/sample%20maven%20project/12/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#12"/>
+    <property name="TMPDIR" value="/var/folders/05/gcv29kxs4gg564jkg__nq3fr0000gp/T/"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib"/>
+    <property name="java.version" value="1.8.0_131"/>
+    <property name="XPC_FLAGS" value="0x0"/>
+    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="APP_ICON_613" value="../Resources/Eclipse.icns"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="TERM" value="xterm-256color"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="BUILD_ID" value="12"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="SHELL" value="/bin/bash"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="maven.conf" value="/Users/kartheekc/Downloads/apache-maven-3.5.2/conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="10.12.5"/>
+    <property name="RUN_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/sample%20maven%20project/12/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.version" value="25.131-b11"/>
+    <property name="JOB_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/sample%20maven%20project/display/redirect"/>
+    <property name="SHLVL" value="1"/>
+    <property name="_" value="/usr/bin/java"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="JAVA_HOME" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="LOGNAME" value="kartheekc"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="HOME" value="/Users/kartheekc"/>
+    <property name="POM_GROUPID" value="JenkinsDemo"/>
+    <property name="user.home" value="/Users/kartheekc"/>
+    <property name="BUILD_TAG" value="jenkins-sample maven project-12"/>
+    <property name="JENKINS_SERVER_COOKIE" value="65bbf9ae6c9273f9"/>
+    <property name="XPC_SERVICE_NAME" value="0"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="/Users/kartheekc/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="NVM_CD_FLAGS" value=""/>
+    <property name="Apple_PubSub_Socket_Render" value="/private/tmp/com.apple.launchd.w1pqodLH02/Render"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="/Users/kartheekc/Downloads/apache-maven-3.5.2"/>
+    <property name="java.class.path" value="/Users/kartheekc/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-agent-1.12-alpha-1.jar:/Users/kartheekc/Downloads/apache-maven-3.5.2/boot/plexus-classworlds-2.5.2.jar:/Users/kartheekc/Downloads/apache-maven-3.5.2/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main /Users/kartheekc/Downloads/apache-maven-3.5.2 /Users/kartheekc/.jenkins/war/WEB-INF/lib/remoting-3.14.jar /Users/kartheekc/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.12-alpha-1.jar /Users/kartheekc/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.12-alpha-1.jar 59316"/>
+    <property name="JAVA_MAIN_CLASS_637" value="org.testng.remote.RemoteTestNG"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PATH+JDK" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/bin"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="JAVA_MAIN_CLASS_9249" value="Main"/>
+    <property name="M2_HOME" value="/Users/kartheekc/Downloads/apache-maven-3.5.2"/>
+    <property name="java.io.tmpdir" value="/var/folders/05/gcv29kxs4gg564jkg__nq3fr0000gp/T/"/>
+    <property name="HUDSON_HOME" value="/Users/kartheekc/.jenkins"/>
+    <property name="PATH+MAVEN" value="/Users/kartheekc/Downloads/apache-maven-3.5.2/bin"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="OLDPWD" value="/Users/kartheekc/Desktop/latestBuilds/SeleniumGrid/SeleniumServerStandAlone"/>
+    <property name="SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.nLWpJlQMWz/Listeners"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.ext.dirs" value="/Users/kartheekc/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="__CF_USER_TEXT_ENCODING" value="0x1F6:0x0:0x0"/>
+    <property name="user.dir" value="/Users/kartheekc/Desktop/EclipseWorkspace/JenkinsDemo"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="MAVEN_HOME" value="/Users/kartheekc/Downloads/apache-maven-3.5.2"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="12"/>
+    <property name="ANDROID_HOME" value="/users/Kartheekc/Library/Android/sdk"/>
+    <property name="TERM_PROGRAM_VERSION" value="388.1"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="LANG" value="en_US.UTF-8"/>
+    <property name="maven3.interceptor" value="/Users/kartheekc/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.12-alpha-1.jar"/>
+    <property name="WORKSPACE" value="/Users/kartheekc/.jenkins/workspace/sample maven project"/>
+    <property name="maven3.interceptor.common" value="/Users/kartheekc/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.12-alpha-1.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="USER" value="kartheekc"/>
+  </properties>
+  <testcase name="testPageTitleSampleA" classname="com.Jenkins.Tests.TestA" time="3.157"/>
+  <testcase name="testSampleThree" classname="com.Jenkins.Tests.TestA" time="0"/>
+  <testcase name="testSampleTwo" classname="com.Jenkins.Tests.TestA" time="0"/>
+  <testcase name="testPageTitleSampleB" classname="com.Jenkins.Tests.TestB" time="2.282"/>
+  <testcase name="testSampleOne" classname="com.Jenkins.Tests.TestB" time="0"/>
+  <testcase name="testSampleThree" classname="com.Jenkins.Tests.TestB" time="0"/>
+  <testcase name="testSampleTwo" classname="com.Jenkins.Tests.TestB" time="0"/>
+</testsuite>
